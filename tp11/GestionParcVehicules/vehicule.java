@@ -1,5 +1,4 @@
 class vehicule {
-    String type;
+    String modele;
     int annee;
-    
 }
